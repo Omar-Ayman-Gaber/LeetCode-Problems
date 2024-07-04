@@ -10,4 +10,4 @@ How to add your LeetCode solution into your GitHub repo in simple steps **:**
 - Solve your LeetCode problem and git the accepted
 - Go to your linked GitHub repo and you will find your solution with the Time & Space Complexity and the problem text
 
-***Important Note :*** The previous versions of the extension will not work properly wiht the new UI of the LeetCode, so I highly recommend you to install the latest version of the extension .
+***Important Note :*** The previous versions of the extension will not work properly with the new UI of the LeetCode, so I highly recommend you to install the latest version of the extension .
